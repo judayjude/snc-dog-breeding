@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Dog" max_length="40" name="x_dog_breeding_dog" type="collection">
+        <element label="Breed" max_length="40" name="breed" type="string"/>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
